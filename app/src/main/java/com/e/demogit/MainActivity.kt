@@ -17,5 +17,6 @@ class MainActivity : AppCompatActivity() {
                 println("This is not user executive")
             }
         }
+        val post = "sjssjs";
     }
 }
