@@ -13,6 +13,10 @@ class MainActivity : AppCompatActivity() {
             "Executive" -> {
                 println("user is executive")
             }
+
+            "Sale Executive" -> {
+                println("user is executive")
+            }
             else -> {
                 println("This is not user executive")
             }
